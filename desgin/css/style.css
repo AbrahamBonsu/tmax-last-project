@@ -261,7 +261,7 @@ section{
 
 .courses .slide{
    background-color: var(--light-bg);
-   border-radius: .5rem;
+   border-radius: 5rem 0rem 0rem 0rem;
    text-align: center; 
    padding:2rem;
    margin-bottom: 4rem;
@@ -354,7 +354,7 @@ section{
 }
 
 .reviews-slider .slide{
-   border-radius: .5rem;
+   border-radius: 5rem 0rem 0rem 0rem;
    background-color: var(--light-bg);
    padding:2rem;
    margin-bottom: 4rem;
@@ -469,6 +469,7 @@ section{
    background-color: var(--light-bg);
    text-align: center;
    /* padding-bottom: 7rem; */
+   border-radius: 120px 0px 0px 0px;
 }
 
 .footer .share a{
